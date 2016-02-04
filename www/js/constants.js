@@ -7,5 +7,5 @@ angular.module('starter')
 
 .constant('USER_ROLES', {
   admin: 'admin_role',
-  public: 'public'
+  public: 'public_role'
 });
